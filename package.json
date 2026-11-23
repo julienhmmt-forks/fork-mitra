@@ -109,6 +109,7 @@
 		"openid-client": "6.x",
 		"temporal-polyfill": "0.2.x",
 		"tsdav": "2.x",
+		"undici": "7.30.x",
 		"web-push": "3.x",
 		"zod": "^4.6.7"
 	},
